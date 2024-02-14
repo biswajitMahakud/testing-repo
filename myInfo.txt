@@ -1,3 +1,6 @@
 This is my info... I just want to see how to commit without adding into the staging area
 
 It's not working... I'm trying again after modifying for the second time
+
+
+some changes are done
